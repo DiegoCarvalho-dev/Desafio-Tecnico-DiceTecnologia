@@ -1,0 +1,42 @@
+2025-08-25 13:25:56,817 - ShoeDetector - INFO - Inicializando componentes do sistema...
+2025-08-25 13:25:56,975 - ShoeDetector - ERROR - Erro ao inicializar componentes: Ran out of input
+2025-08-25 13:27:03,705 - ShoeDetector - INFO - Inicializando componentes do sistema...
+2025-08-25 13:27:03,799 - ShoeDetector - ERROR - Erro ao inicializar componentes: Ran out of input
+2025-08-25 13:29:08,488 - ShoeDetector - INFO - Inicializando componentes do sistema...
+2025-08-25 13:29:08,567 - ShoeDetector - ERROR - Erro ao inicializar componentes: Ran out of input
+2025-08-25 13:29:28,306 - ShoeDetector - INFO - Inicializando componentes do sistema...
+2025-08-25 13:29:28,387 - ShoeDetector - ERROR - Erro ao inicializar componentes: Ran out of input
+2025-08-25 13:30:50,593 - ShoeDetector - INFO - Inicializando componentes do sistema...
+2025-08-25 13:30:50,661 - ShoeDetector - ERROR - Erro ao inicializar componentes: Ran out of input
+2025-08-25 13:40:35,660 - ShoeDetector - INFO - Inicializando componentes do sistema...
+2025-08-25 13:40:35,766 - ShoeDetector - INFO - Detector de tênis inicializado
+2025-08-25 13:40:35,766 - ShoeDetector - INFO - Gerenciador de ROI inicializado
+2025-08-25 13:40:35,766 - ShoeDetector - INFO - Rastreador de eventos inicializado
+2025-08-25 13:40:35,766 - ShoeDetector - INFO - Sistema inicializado com sucesso
+2025-08-25 13:40:35,767 - ShoeDetector - INFO - Iniciando processamento da câmera 0
+2025-08-25 13:41:02,450 - ShoeDetector - INFO - Sistema pausado
+2025-08-25 13:41:05,005 - ShoeDetector - INFO - Sistema retomado
+2025-08-25 13:41:07,482 - ShoeDetector - INFO - Resetando sistema...
+2025-08-25 13:41:07,483 - ShoeDetector - INFO - Sistema resetado
+2025-08-25 13:42:31,683 - ShoeDetector - ERROR - Erro ao salvar resultados: cannot convert float NaN to integer
+2025-08-25 13:42:31,683 - ShoeDetector - INFO - Processamento da câmera concluído
+2025-08-25 13:46:54,117 - ShoeDetector - INFO - Inicializando componentes do sistema...
+2025-08-25 13:46:54,235 - ShoeDetector - INFO - Detector de tênis inicializado
+2025-08-25 13:46:54,235 - ShoeDetector - INFO - Gerenciador de ROI inicializado
+2025-08-25 13:46:54,236 - ShoeDetector - INFO - Rastreador de eventos inicializado
+2025-08-25 13:46:54,236 - ShoeDetector - INFO - Sistema inicializado com sucesso
+2025-08-25 13:46:54,236 - ShoeDetector - INFO - Iniciando processamento da câmera 0
+2025-08-25 13:47:12,096 - ShoeDetector - INFO - Sistema pausado
+2025-08-25 13:47:13,107 - ShoeDetector - INFO - Sistema retomado
+2025-08-25 13:47:17,139 - ShoeDetector - INFO - Resetando sistema...
+2025-08-25 13:47:17,140 - ShoeDetector - INFO - Sistema resetado
+2025-08-25 13:47:26,950 - ShoeDetector - ERROR - Erro ao salvar resultados: cannot convert float NaN to integer
+2025-08-25 13:47:26,950 - ShoeDetector - INFO - Processamento da câmera concluído
+2025-08-25 13:55:01,196 - ShoeDetector - INFO - Inicializando componentes do sistema...
+2025-08-25 13:55:01,306 - ShoeDetector - INFO - Detector de tênis inicializado
+2025-08-25 13:55:01,307 - ShoeDetector - INFO - Gerenciador de ROI inicializado
+2025-08-25 13:55:01,307 - ShoeDetector - INFO - Rastreador de eventos inicializado
+2025-08-25 13:55:01,307 - ShoeDetector - INFO - Sistema inicializado com sucesso
+2025-08-25 13:55:01,307 - ShoeDetector - INFO - Iniciando processamento da câmera 0
+2025-08-25 13:56:02,938 - ShoeDetector - ERROR - Erro ao salvar resultados: cannot convert float NaN to integer
+2025-08-25 13:56:02,938 - ShoeDetector - INFO - Processamento da câmera concluído
