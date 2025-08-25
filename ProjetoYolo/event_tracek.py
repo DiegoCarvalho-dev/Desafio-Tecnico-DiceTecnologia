@@ -250,7 +250,7 @@ class EventTracker:
         self.max_concurrent = 0
 
     def export_tracking_data(self) -> Dict[str, Any]:
- 
+
         return {
             'tracking_summary': self.get_tracking_summary(),
             'tracked_objects': self.tracked_objects,
