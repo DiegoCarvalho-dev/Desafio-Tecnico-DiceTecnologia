@@ -48,3 +48,15 @@
 2025-08-25 15:39:51,523 - ShoeDetector - INFO - Iniciando processamento da câmera 0
 2025-08-25 15:40:40,369 - ShoeDetector - ERROR - Erro ao salvar resultados: cannot convert float NaN to integer
 2025-08-25 15:40:40,370 - ShoeDetector - INFO - Processamento da câmera concluído
+2025-08-25 15:50:08,742 - ShoeDetector - INFO - Inicializando componentes do sistema...
+2025-08-25 15:50:08,845 - ShoeDetector - INFO - Detector de tênis inicializado
+2025-08-25 15:50:08,845 - ShoeDetector - INFO - Gerenciador de ROI inicializado
+2025-08-25 15:50:08,845 - ShoeDetector - INFO - Rastreador de eventos inicializado
+2025-08-25 15:50:08,846 - ShoeDetector - INFO - Sistema inicializado com sucesso
+2025-08-25 15:50:08,846 - ShoeDetector - INFO - Iniciando processamento da câmera 0
+2025-08-25 15:50:25,664 - ShoeDetector - INFO - Sistema pausado
+2025-08-25 15:50:26,711 - ShoeDetector - INFO - Sistema retomado
+2025-08-25 15:50:35,080 - ShoeDetector - INFO - Resetando sistema...
+2025-08-25 15:50:35,081 - ShoeDetector - INFO - Sistema resetado
+2025-08-25 15:51:33,488 - ShoeDetector - ERROR - Erro ao salvar resultados: cannot convert float NaN to integer
+2025-08-25 15:51:33,489 - ShoeDetector - INFO - Processamento da câmera concluído
